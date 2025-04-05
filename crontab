@@ -1,0 +1,4 @@
+#to add this to your con job, specify your path to the 'backup.sh' file below
+
+0 0 * * * /path/to/your/backup.sh
+
